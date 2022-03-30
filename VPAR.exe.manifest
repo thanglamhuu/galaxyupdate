@@ -4,7 +4,7 @@
   <description asmv2:iconFile="favicon20.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="VPAR" version="20.6.27.1" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="VPAR" version="22.3.30.1" language="neutral" processorArchitecture="msil" />
     <commandLine file="VPAR.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -516,13 +516,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VPAR.exe" size="26097664">
-      <assemblyIdentity name="VPAR" version="20.6.27.1" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="VPAR" version="22.3.30.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>1RTFveV9ZOQy8xa/sUMksu7J3a4=</dsig:DigestValue>
+        <dsig:DigestValue>tCESW9HhVCV8djhCVS+X+vF6t2I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
