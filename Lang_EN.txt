@@ -1,0 +1,3567 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="LANG" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="LANG">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="KEY" type="xs:string" />
+                <xs:element name="TEXT" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//LANG" />
+        <xs:field xpath="KEY" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <LANG>
+    <KEY>clAsterisk00079</KEY>
+    <TEXT>Error...</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>clAsterisk00092</KEY>
+    <TEXT>Error...</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>clAsterisk00163</KEY>
+    <TEXT>Máy rảnh</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmAsterisk00058</KEY>
+    <TEXT>Error</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmBookCalender00133</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmCalender00327</KEY>
+    <TEXT>Janus Schedule for Microsoft .NET</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmCalender00337</KEY>
+    <TEXT>Janus Schedule for Microsoft .NET</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmCapnhatketquathuchien00202</KEY>
+    <TEXT>Bạn đã cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmChartView00862</KEY>
+    <TEXT>Đã lưu mẫu biểu đồ.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmConfigeReports00067</KEY>
+    <TEXT>Go Save</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmCongViecHangNgay00261</KEY>
+    <TEXT>The method or operation is not implemented.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmCongViecHangNgay00301</KEY>
+    <TEXT>Bạn chỉ chọn mỗi khách hàng tương ứng với 1 hẹn lịch!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmCongViecHangNgay00302</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmCongViecHangNgay00328</KEY>
+    <TEXT>Bạn chỉ chọn khách hàng trong cùng 1 kế hoạch đê thực hiện!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmCongViecHangNgay00329</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmCongViecHangNgay00727</KEY>
+    <TEXT>Công việc hàng ngày </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmDutoanVattu02213</KEY>
+    <TEXT>Cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmDutoanVattu02241</KEY>
+    <TEXT>Cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmDutoanVattu02373</KEY>
+    <TEXT>Cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmDutoanVattu02415</KEY>
+    <TEXT>Cập nhật sản phẩm thép thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmEmailDongGopYKien00218</KEY>
+    <TEXT>Vpar-Email:{0}Unknow error!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmError00040</KEY>
+    <TEXT>Khách hàng :{0} Thông báo lỗi!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmHelp00157</KEY>
+    <TEXT>Câu này có({0}) ý kiến khác</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmHelp00385</KEY>
+    <TEXT>Cập nhật thành công!!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmHelp00528</KEY>
+    <TEXT>Câu này có({0}) ý kiến khác</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmHelp00906</KEY>
+    <TEXT>Câu này có({0}) ý kiến khác</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmHelp01027</KEY>
+    <TEXT>Câu này có({0}) ý kiến khác</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmHelp01050</KEY>
+    <TEXT>Câu hỏi?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmHelp01051</KEY>
+    <TEXT>Trả lời!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKeHoachMarktting00433</KEY>
+    <TEXT>Bạn có muốn dữ lại thông tin không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKeHoachMarktting00443</KEY>
+    <TEXT>Chọn người thực hiện kế hoạch.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKeHoachMarktting00453</KEY>
+    <TEXT>Bạn phải nhập tên kế hoạch.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKeHoachMarktting00454</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKeHoachMarktting00575</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKeHoachMarktting00576</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKeHoachMarktting00700</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKeHoachMarktting00701</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKeHoachMarktting01519</KEY>
+    <TEXT>Hẹn lịch với: </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKetchuyentaikhoan00074</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKhauhaotaisancodinh00263</KEY>
+    <TEXT>VALUES(1,</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmKhauhaotaisancodinh00280</KEY>
+    <TEXT>Cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLapkehoachchitiet00387</KEY>
+    <TEXT>Sẽ đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLapkehoachchitiet00388</KEY>
+    <TEXT>Đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLapkehoachchitiet00553</KEY>
+    <TEXT>Cập nhật thành công.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLapkehoachchitiet00562</KEY>
+    <TEXT>Danh sách kế hoạch chi tiết</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLapkehoachchitiet00600</KEY>
+    <TEXT>Sẽ đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLapkehoachchitiet00601</KEY>
+    <TEXT>Đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLayout00022</KEY>
+    <TEXT>Click vào để xem chi tiết</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLayout00035</KEY>
+    <TEXT>Click vào để xem chi tiết</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLayout00052</KEY>
+    <TEXT>Click vào để xem chi tiết</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmLayout00059</KEY>
+    <TEXT>Click vào để xem chi tiết</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain00154</KEY>
+    <TEXT>Invalid WAV file</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain00157</KEY>
+    <TEXT>Olny PCM files are supported</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01675</KEY>
+    <TEXT>Database:</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01682</KEY>
+    <TEXT>Hệ thống</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01683</KEY>
+    <TEXT>V par - Mã giới thiệu {0} ({1}) - Bạn đang xem dữ liệu mẫu</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01705</KEY>
+    <TEXT>Hệ thống</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01706</KEY>
+    <TEXT>V par-Mã giới thiệu - {0} ({1})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01907</KEY>
+    <TEXT>Server:</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01918</KEY>
+    <TEXT>Database:</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01972</KEY>
+    <TEXT>Giao dịch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01979</KEY>
+    <TEXT>Nhãn thư</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01986</KEY>
+    <TEXT>Email</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain01993</KEY>
+    <TEXT>SMS</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02000</KEY>
+    <TEXT>Hẹn lịch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02007</KEY>
+    <TEXT>Báo giá</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02014</KEY>
+    <TEXT>Dự báo</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02021</KEY>
+    <TEXT>Hợp đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02028</KEY>
+    <TEXT>Xuất hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02034</KEY>
+    <TEXT>Thu tiền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02042</KEY>
+    <TEXT>Nhập hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02049</KEY>
+    <TEXT>Chi tiền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02079</KEY>
+    <TEXT>BIỂU ĐỒ TÁC CHIẾN</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02080</KEY>
+    <TEXT>Đổi vị trí hiển thị   </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02081</KEY>
+    <TEXT>Lưu định dạng hiển thị</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02082</KEY>
+    <TEXT>Cafe tự động       </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02118</KEY>
+    <TEXT>Công việc hàng ngày theo kế hoạch ({0})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02123</KEY>
+    <TEXT>Daily work plan({0})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02124</KEY>
+    <TEXT>Daily work plan</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02161</KEY>
+    <TEXT>Daily work plan</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02162</KEY>
+    <TEXT>Daily work plan</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02163</KEY>
+    <TEXT>Online Guide</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02237</KEY>
+    <TEXT>Scheduled daily work schedule ({0}/{1})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02837</KEY>
+    <TEXT>VPAR_CRM_MAU</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02879</KEY>
+    <TEXT>Phân tích tình hình thực hiện khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain02968</KEY>
+    <TEXT>Phân tích Email</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03028</KEY>
+    <TEXT>Phân tích Emmail.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03041</KEY>
+    <TEXT>Phân tích báo giá khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03141</KEY>
+    <TEXT>Phân tích chi tiết sản phẩm dự báo</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03241</KEY>
+    <TEXT>Phân tích chi tiết sản phẩm hợp đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03341</KEY>
+    <TEXT>Phân tích chi tiết sản phẩm xuất hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03413</KEY>
+    <TEXT>Phân tích tổng hợp công nợ phải thu</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03545</KEY>
+    <TEXT>Phân tích tổng hợp công nợ phải chi</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03677</KEY>
+    <TEXT>Phân tích chi tiết sản phẩm nhập hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03748</KEY>
+    <TEXT>Tổng hợp xuất nhập tồn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03894</KEY>
+    <TEXT>Phân tích tình hình thực hiện sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain03986</KEY>
+    <TEXT>Phân tích Email</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04046</KEY>
+    <TEXT>Phân tích Emmail.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04059</KEY>
+    <TEXT>Phân tích chi tiết sản phẩm báo giá</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04159</KEY>
+    <TEXT>Phân tích dự báo khớp lệnh mua bán</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04220</KEY>
+    <TEXT>Phân tích thu tiền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04325</KEY>
+    <TEXT>Phân tích chi tiền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04430</KEY>
+    <TEXT>Phân tích kho hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04485</KEY>
+    <TEXT>Tổng hợp kho hàng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04541</KEY>
+    <TEXT>Phân tích tình hình thực hiện khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04640</KEY>
+    <TEXT>Phân tích tình báo giá khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04740</KEY>
+    <TEXT>Phân tích sản phẩm hợp đồng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04867</KEY>
+    <TEXT>Phân tích xuất hàng theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain04939</KEY>
+    <TEXT>Phân tích nhập hàng theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain05056</KEY>
+    <TEXT>Phân tích tình hình thực hiện sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain05186</KEY>
+    <TEXT>Phân tích báo giá theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain05316</KEY>
+    <TEXT>Phân tích dự báo theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain05446</KEY>
+    <TEXT>Phân tích chi tiết sản phẩm xuất hàng theo Lot</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain05545</KEY>
+    <TEXT>Phân tích chi tiết nợ</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain05631</KEY>
+    <TEXT>Phân tích chi tiết sản phẩm nhập hàng theo Lot</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain05699</KEY>
+    <TEXT>Thống kê tồn kho hiện tại</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain05784</KEY>
+    <TEXT>Phân tích tổng tiền theo khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06382</KEY>
+    <TEXT>Bạn đang nhập hồ sơ khách hàng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06401</KEY>
+    <TEXT>Bạn đang nhập hồ sơ đối tượng được tiếp cận.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06420</KEY>
+    <TEXT>Bạn đang nhập hồ sơ sản phẩm.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06442</KEY>
+    <TEXT>Thực hiện giao dịch.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06461</KEY>
+    <TEXT>Thực hiện nhãn thư.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06480</KEY>
+    <TEXT>Thực hiện Email.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06499</KEY>
+    <TEXT>Thực hiện SMS.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06518</KEY>
+    <TEXT>Thực hiện hẹn lịch.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06536</KEY>
+    <TEXT>Thực hiện báo giá.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06552</KEY>
+    <TEXT>Thực hiện dự báo.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06569</KEY>
+    <TEXT>Thực hiện hợp đồng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06586</KEY>
+    <TEXT>Thực hiện xuất hàng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06603</KEY>
+    <TEXT>TThực hiện thu tiền.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06620</KEY>
+    <TEXT>Thực hiện nhập hàng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06622</KEY>
+    <TEXT>Implementation of import.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06637</KEY>
+    <TEXT>Thực hiện chi tiền.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06683</KEY>
+    <TEXT>Chi tiết khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06684</KEY>
+    <TEXT>Chi tiết sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06685</KEY>
+    <TEXT>Theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06686</KEY>
+    <TEXT>Theo khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06765</KEY>
+    <TEXT>Theo ĐTTC</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06766</KEY>
+    <TEXT>Theo kế hoạch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06767</KEY>
+    <TEXT>Theo mục đích</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06778</KEY>
+    <TEXT>Phân tích giao dịch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06837</KEY>
+    <TEXT>Phân tích giao dịch.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06864</KEY>
+    <TEXT>Theo ĐTTC</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06866</KEY>
+    <TEXT>Theo kế hoạch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06868</KEY>
+    <TEXT>Theo mục đích</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06871</KEY>
+    <TEXT>Phân tích Nhãn thư</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06930</KEY>
+    <TEXT>Phân tích nhãn thư.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06966</KEY>
+    <TEXT>Phân tích Email</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06967</KEY>
+    <TEXT>Theo khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06968</KEY>
+    <TEXT>Theo mục đích</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain06969</KEY>
+    <TEXT>Theo đtđtc</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07038</KEY>
+    <TEXT>Phân tích Emmail.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07069</KEY>
+    <TEXT>Theo ĐTTC</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07070</KEY>
+    <TEXT>Phân tích SMS</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07071</KEY>
+    <TEXT>Theo mục đích</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07072</KEY>
+    <TEXT>Theo kế hoạch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07139</KEY>
+    <TEXT>Phân tích SMS.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07155</KEY>
+    <TEXT>Phân tích tình hình thực hiện</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07251</KEY>
+    <TEXT>Chi tiết khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07252</KEY>
+    <TEXT>Chi tiết sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07253</KEY>
+    <TEXT>Theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07254</KEY>
+    <TEXT>Theo khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07255</KEY>
+    <TEXT>Phân tích tình hình thực hiện.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07256</KEY>
+    <TEXT>Tổng tiền theo khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07257</KEY>
+    <TEXT>Tổng số lượng theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07290</KEY>
+    <TEXT>Chi tiết sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07291</KEY>
+    <TEXT>Chi tiết khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07292</KEY>
+    <TEXT>Theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07293</KEY>
+    <TEXT>Theo khách hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07294</KEY>
+    <TEXT>Phân tích báo giá.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07309</KEY>
+    <TEXT>Phân tích báo giá</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07420</KEY>
+    <TEXT>Chi tiết sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07421</KEY>
+    <TEXT>Theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07422</KEY>
+    <TEXT>Khớp lệnh mua bán</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07423</KEY>
+    <TEXT>Chi tiết sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07424</KEY>
+    <TEXT>Phân tích dự báo.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07439</KEY>
+    <TEXT>Phân tích dự báo</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07551</KEY>
+    <TEXT>Chi tiết sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07552</KEY>
+    <TEXT>Theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07553</KEY>
+    <TEXT>Theo kế hoạch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07554</KEY>
+    <TEXT>Phân tích hợp đồng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07555</KEY>
+    <TEXT>Chi tiết sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07569</KEY>
+    <TEXT>Phân tích hợp đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07676</KEY>
+    <TEXT>Theo Lot</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07677</KEY>
+    <TEXT>Theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07678</KEY>
+    <TEXT>Theo kế hoạch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07679</KEY>
+    <TEXT>Phân tích xuất hàng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07680</KEY>
+    <TEXT>Chi tiết sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07684</KEY>
+    <TEXT>Under Lot</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07685</KEY>
+    <TEXT>By product</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07686</KEY>
+    <TEXT>As planned</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07687</KEY>
+    <TEXT>Analysis goods.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07688</KEY>
+    <TEXT>Product Details</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07694</KEY>
+    <TEXT>Phân tích xuất hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07779</KEY>
+    <TEXT>Tổng hợp công nợ phải thu</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07780</KEY>
+    <TEXT>Chi tiết công nợ còn lại</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07781</KEY>
+    <TEXT>Chi tiết công nợ phải thu</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07782</KEY>
+    <TEXT>Phân tích thu tiền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07786</KEY>
+    <TEXT>Synthesis debts</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07787</KEY>
+    <TEXT>The details of the remaining debt</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07788</KEY>
+    <TEXT>The details of the debts</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07789</KEY>
+    <TEXT>Collection analysis</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07892</KEY>
+    <TEXT>Phân tích thu tiền.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07896</KEY>
+    <TEXT>Analysis of collection.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07915</KEY>
+    <TEXT>Theo Lot</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07916</KEY>
+    <TEXT>Theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07917</KEY>
+    <TEXT>Theo kế hoạch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07918</KEY>
+    <TEXT>Phân tích nhập hàng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07919</KEY>
+    <TEXT>Chi tiết sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07923</KEY>
+    <TEXT>Under Lot</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07924</KEY>
+    <TEXT>By product</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07925</KEY>
+    <TEXT>As planned</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07926</KEY>
+    <TEXT>Analysis of imported goods.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07927</KEY>
+    <TEXT>Product details</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain07933</KEY>
+    <TEXT>Phân tích nhập hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08018</KEY>
+    <TEXT>Phân tích chi tiền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08019</KEY>
+    <TEXT>Chi tiết công nợ phải chi</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08020</KEY>
+    <TEXT>Tổng hợp công nợ phải chi</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08024</KEY>
+    <TEXT>Spending analysis</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08025</KEY>
+    <TEXT>More debt spending</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08026</KEY>
+    <TEXT>Total debt to spend</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08129</KEY>
+    <TEXT>Phân tích chi tiền.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08133</KEY>
+    <TEXT>Analyze spending.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08161</KEY>
+    <TEXT>Tổng hợp xuất nhập tồn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08162</KEY>
+    <TEXT>Kho hàng tồn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08163</KEY>
+    <TEXT>Chi tiết xuất nhập tồn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08164</KEY>
+    <TEXT>Phân tích kho hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08168</KEY>
+    <TEXT>General import religious</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08169</KEY>
+    <TEXT>Warehouse inventory</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08170</KEY>
+    <TEXT>Details Import religious</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08171</KEY>
+    <TEXT>Inventory analysis</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08226</KEY>
+    <TEXT>Tổng hợp kho hàng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain08230</KEY>
+    <TEXT>Synthesis warehouse.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain10404</KEY>
+    <TEXT>Phân tích tự do</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain10908</KEY>
+    <TEXT>Phân tích tổng số lượng theo sản phẩm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain13003</KEY>
+    <TEXT>Tổng hợp kho hàng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain13007</KEY>
+    <TEXT>Synthesis warehouse.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17031</KEY>
+    <TEXT>Tổng hợp kho hàng.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17035</KEY>
+    <TEXT>Synthesis warehouse.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17152</KEY>
+    <TEXT>Thực hiện Email.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17248</KEY>
+    <TEXT>Công việc hàng ngày theo hẹn lịch ({0}/{1})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17252</KEY>
+    <TEXT>Scheduled daily work schedule ({0}/{1})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17262</KEY>
+    <TEXT>Công việc hàng ngày theo hẹn lịch ({0}/{1})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17266</KEY>
+    <TEXT>Scheduled daily work schedule ({0}/{1})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17296</KEY>
+    <TEXT>Công việc hàng ngày theo kế hoạch ({0})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17300</KEY>
+    <TEXT>Daily work plan({0})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17301</KEY>
+    <TEXT>Daily work plan</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17310</KEY>
+    <TEXT>Công việc hàng ngày theo kế hoạch ({0})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17314</KEY>
+    <TEXT>Daily work plan({0})</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17315</KEY>
+    <TEXT>Daily work plan</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17316</KEY>
+    <TEXT>Online Guide</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17611</KEY>
+    <TEXT>Bạn chỉ chọn mỗi khách hàng tương ứng với 1 hẹn lịch!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17612</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17668</KEY>
+    <TEXT>Bạn chỉ chọn khách hàng trong cùng 1 kế hoạch đê thực hiện!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain17669</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain18514</KEY>
+    <TEXT>Bạn không có tin nhắn mới.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain18671</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain18750</KEY>
+    <TEXT>Bạn có  {0} tin nhắn mới"</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain18769</KEY>
+    <TEXT>Bạn không có thư mới.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain18792</KEY>
+    <TEXT>Thực hiện SMS.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain18815</KEY>
+    <TEXT>Bạn đang có ({0}) thư mới chưa xem.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmMain19183</KEY>
+    <TEXT>Số cửa còn lại chưa qua Phôi là {0} \n- Ngày cuối cùng nhà máy xong việc: {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhanlaihosokhachhang00276</KEY>
+    <TEXT>Cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhanquyengiatridanhmuc00361</KEY>
+    <TEXT>Cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00628</KEY>
+    <TEXT>Bạn phải tạo mới Bảng tính giá thành!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00629</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00713</KEY>
+    <TEXT>Tạo BOM chuẩn sản phẩm {0} mã sản phẩm :{1}!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00714</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00723</KEY>
+    <TEXT>Không tạo được BOM, vui lòng kiểm tra lại !</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00724</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00733</KEY>
+    <TEXT>Không tạo được BOM từ bảng tính giá thành bình quân gia quyền!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00734</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00812</KEY>
+    <TEXT>Bạn phải tạo mới Bảng tính giá thành!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00813</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00885</KEY>
+    <TEXT>Chỉ được chọn một Bảng tính giá thành khi chuyển giá nhập thành phẩm. Vui lòng kiểm tra lại!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00886</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00902</KEY>
+    <TEXT>Bảng tính giá thành đã được cập nhật giá. Vui lòng kiểm tra lại!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00903</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00932</KEY>
+    <TEXT>Cập nhật dữ liệu thành công.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00933</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00989</KEY>
+    <TEXT>Chỉ được chọn một Bảng tính giá thành khi chuyển giá nhập hàng tới kho. Vui lòng kiểm tra lại!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh00990</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01016</KEY>
+    <TEXT>Đã chuyển giá nhập hàng tới kho, nếu muốn tiếp tục cập nhật giá thì sử dụng Bảng tính giá thành mới hơn hoặc tạo mới Bảng tính giá thành!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01017</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01066</KEY>
+    <TEXT>Bút toán phân bổ tự động.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01153</KEY>
+    <TEXT>Cập nhật dữ liệu thành công.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01154</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01164</KEY>
+    <TEXT>Không chuyển giá nhập hàng tới kho được, vui lòng kiểm tra lại!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01165</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01182</KEY>
+    <TEXT>Chỉ được chọn một Bảng tính giá thành khi chuyển giá bình quân gia quyền tại chỗ. Vui lòng kiểm tra lại!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01183</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01200</KEY>
+    <TEXT>Đã thực hiện Bình quân gia quyền trong tháng. Vui lòng kiểm tra lại!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01201</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01214</KEY>
+    <TEXT>Bình quân gia quyền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01246</KEY>
+    <TEXT>Cập nhật dữ liệu thành công.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01247</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01256</KEY>
+    <TEXT>Không tính được Bình quân gia quyền tại chỗ. Vui lòng kiểm tra lại!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmPhantichtinhgiathanh01257</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00077</KEY>
+    <TEXT>Số lượng Serial cần tạo :</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00079</KEY>
+    <TEXT>Tổng số sản phẩm :</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00218</KEY>
+    <TEXT>Bạn nhập các Serial sau: {0} Bị chùng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00254</KEY>
+    <TEXT>Bạn chưa nhập đủ số Serial!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00255</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00283</KEY>
+    <TEXT>Bạn kiểm tra lại tổng số lượng khác số lượng tổng sản phẩn nhập</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00326</KEY>
+    <TEXT>Đang cập san pham LOT</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00327</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00347</KEY>
+    <TEXT>Bạn kiểm tra lại tổng số lượng khác số lượng tổng sản phẩn nhập</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00390</KEY>
+    <TEXT>Đang cập san pham LOT</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00391</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00405</KEY>
+    <TEXT>Nhập số lượng sản phẩm theo Lot</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00406</KEY>
+    <TEXT>Tổng số sản phẩm :</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00422</KEY>
+    <TEXT>Nhập số Serial</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmSeriNumber00423</KEY>
+    <TEXT>Số lượng Serial cần tạo :</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmShowBaogia00064</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmShowDubao00055</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmShowHopdong00053</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTaisancodinh00046</KEY>
+    <TEXT>Cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00395</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00465</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00511</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00537</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00538</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00542</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00543</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00549</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00555</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00652</KEY>
+    <TEXT>Bạn phải nhập tên sản phẩm!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00653</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00657</KEY>
+    <TEXT>You must enter the product name!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham00658</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham01193</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham01194</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham01198</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThemnhanhsanpham01199</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien00200</KEY>
+    <TEXT>Hồ sơ sản phẩm                                                                                                                                                                                                                            </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien00201</KEY>
+    <TEXT>Hồ sơ sản phẩm                                                                                                                                  </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien00222</KEY>
+    <TEXT>Danh sách thành viên</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien00226</KEY>
+    <TEXT>Members List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien00620</KEY>
+    <TEXT>Standard V par - Build System Customer</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien00621</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien00730</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01776</KEY>
+    <TEXT>Danh sách thành viên</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01780</KEY>
+    <TEXT>Members List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01784</KEY>
+    <TEXT>Danh sách </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01788</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01851</KEY>
+    <TEXT>Danh sách </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01855</KEY>
+    <TEXT>Waiting list to access the</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01860</KEY>
+    <TEXT>Danh sách </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01864</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01922</KEY>
+    <TEXT>Danh sách </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01926</KEY>
+    <TEXT> List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01931</KEY>
+    <TEXT>Danh sách {0} chi tiết</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01935</KEY>
+    <TEXT>List {0} details</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01980</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01984</KEY>
+    <TEXT>History</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01989</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien01993</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02094</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02098</KEY>
+    <TEXT>History</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02103</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02107</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02207</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02211</KEY>
+    <TEXT>History </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02216</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02220</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02449</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02453</KEY>
+    <TEXT>History </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02458</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02462</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02524</KEY>
+    <TEXT>Standard V par - Build System Customer</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02540</KEY>
+    <TEXT>Standard V par - Build System Customer</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02544</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02548</KEY>
+    <TEXT>History</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02553</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien02557</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03110</KEY>
+    <TEXT>Standard V par - Build System Customer</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03114</KEY>
+    <TEXT>Lịch sử</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03118</KEY>
+    <TEXT>History</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03123</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03127</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03215</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03219</KEY>
+    <TEXT>History </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03224</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03228</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03483</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03487</KEY>
+    <TEXT>History </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03492</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03496</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03747</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03751</KEY>
+    <TEXT>History </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03755</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03759</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03989</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03993</KEY>
+    <TEXT>History </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien03998</KEY>
+    <TEXT>Danh sách khách hàng </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04002</KEY>
+    <TEXT>Customer List</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04102</KEY>
+    <TEXT>Tổng tiền đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04130</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04134</KEY>
+    <TEXT>History </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04139</KEY>
+    <TEXT>Danh sách nhà cung cấp </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04143</KEY>
+    <TEXT>List of Suppliers</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04270</KEY>
+    <TEXT>Lịch sử </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04274</KEY>
+    <TEXT>History </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04279</KEY>
+    <TEXT>Danh sách nhà cung cấp </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien04283</KEY>
+    <TEXT>List of Suppliers</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05377</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05378</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05382</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05383</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05389</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05395</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05431</KEY>
+    <TEXT>Bạn phải nhập tên khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05432</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05436</KEY>
+    <TEXT>You must enter a customer name!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05437</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05452</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05453</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05457</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05458</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05562</KEY>
+    <TEXT>Bạn phải xác định khách hàng !</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05563</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05567</KEY>
+    <TEXT>You must identify customers !</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05568</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05585</KEY>
+    <TEXT>Bạn phải xác định khách hàng !</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05586</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05590</KEY>
+    <TEXT>You must identify customers !</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05591</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05607</KEY>
+    <TEXT>Bạn phải nhập tên đối tượng được tiếp cận!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05608</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05612</KEY>
+    <TEXT>You must enter the name who have access!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05613</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05627</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05628</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05632</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05633</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05685</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05686</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05690</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05691</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05697</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05703</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05737</KEY>
+    <TEXT>Bạn phải nhập tên sản phẩm!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05738</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05742</KEY>
+    <TEXT>You must enter the product name!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05743</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05853</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05854</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05858</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05859</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05897</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05898</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05902</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05903</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05909</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05915</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05967</KEY>
+    <TEXT>Bạn phải xác định khách hàng giao dịch!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05968</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05977</KEY>
+    <TEXT>Bạn phải chọn đối tượng tiếp cận!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien05978</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06053</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06054</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06058</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06059</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06088</KEY>
+    <TEXT>Đang cập nhật giao dịch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06089</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06104</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06105</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06109</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06110</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06116</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06122</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06139</KEY>
+    <TEXT>Chọn người thực hiện.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06160</KEY>
+    <TEXT>Bạn chọn lại khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06161</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06170</KEY>
+    <TEXT>Bạn phải nhập thông tin hẹn lịch!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06171</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06314</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06315</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06319</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06320</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06330</KEY>
+    <TEXT>Đang cập nhật hẹn lịch</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06331</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06348</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06349</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06353</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06354</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06360</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06366</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06461</KEY>
+    <TEXT>Bạn phải chọn loại tiền báo giá</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06466</KEY>
+    <TEXT>Bạn phải chọn khách hàng báo giá</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06488</KEY>
+    <TEXT>Bạn phải chọn sản phẩm!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06489</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06494</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06725</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06726</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06730</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06731</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06742</KEY>
+    <TEXT>Đang cập nhật báo giá</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06743</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06762</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06763</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06767</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06768</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06774</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06780</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06833</KEY>
+    <TEXT>Bạn phải chọn khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06834</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06839</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06971</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06972</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06976</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06977</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06987</KEY>
+    <TEXT>Đang cập nhật nhãn thư</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien06988</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07033</KEY>
+    <TEXT>Chọn người thực hiện.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07034</KEY>
+    <TEXT>Chọn người thực hiện.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07035</KEY>
+    <TEXT>Chọn người thực hiện.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07074</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07075</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07079</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07080</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07086</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07092</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07180</KEY>
+    <TEXT>Chọn người thực hiện.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07181</KEY>
+    <TEXT>Chọn người thực hiện.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07182</KEY>
+    <TEXT>Chọn người thực hiện.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07209</KEY>
+    <TEXT>Bạn phải chọn loại tiền đơn hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07217</KEY>
+    <TEXT>Bạn phải xác định lại khach hàng để làm dự báo!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07218</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07261</KEY>
+    <TEXT>Bạn phải tích chọn thái độ hoặc hành vi!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07262</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07718</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07719</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07723</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07724</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07770</KEY>
+    <TEXT>Đang cập nhật dự báo</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07771</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07789</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07790</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07794</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07795</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07801</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07807</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07908</KEY>
+    <TEXT>Bạn phải chọn loại tiền hợp đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07916</KEY>
+    <TEXT>Bạn phải xác định khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07917</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07926</KEY>
+    <TEXT>Bạn phải nhập số hợp đồng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07927</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07937</KEY>
+    <TEXT>Bạn chưa có danh sách sản phẩm !</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien07938</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08364</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08365</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08403</KEY>
+    <TEXT>Đang cập nhật hợp đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08404</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08453</KEY>
+    <TEXT>Bạn phải chọn kho xuất</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08477</KEY>
+    <TEXT>Bạn phải xác định khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08478</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08487</KEY>
+    <TEXT>Bạn phải xác định hợp đồng hoặc dự báo để xuất hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08488</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien08519</KEY>
+    <TEXT>Đặt hàng tự sinh do xuất hàng tự do</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09076</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09077</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09081</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09082</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09110</KEY>
+    <TEXT>Đang cập nhật xuất hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09111</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09182</KEY>
+    <TEXT>Bạn phải chọn loại tiền thu hoặc theo hợp đồng, theo đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09208</KEY>
+    <TEXT>Bạn phải xác định khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09209</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09309</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09310</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09314</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09315</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09342</KEY>
+    <TEXT>Đang cập nhật thu tiền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09343</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09356</KEY>
+    <TEXT>Bạn phải chọn loại tiền thu hoặc theo hợp đồng, theo đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09382</KEY>
+    <TEXT>Bạn phải xác định khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09383</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09498</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09499</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09503</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09504</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09533</KEY>
+    <TEXT>Đang cập nhật thu tiền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09534</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09582</KEY>
+    <TEXT>Bạn chưa xác định người nhận</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09588</KEY>
+    <TEXT>Bạn chưa cài đặt cấu hình email</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09663</KEY>
+    <TEXT>Vpar-Email:{0}Unknow error!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09665</KEY>
+    <TEXT>DllDate: Mar  3 2008</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09666</KEY>
+    <TEXT>Vpar-Email</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09676</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09677</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09681</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09682</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09688</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09694</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09755</KEY>
+    <TEXT>Đã gửi</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09756</KEY>
+    <TEXT>Gửi trực tiếp</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09788</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09789</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09821</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09822</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09901</KEY>
+    <TEXT>Bạn có {0} thư mới.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09956</KEY>
+    <TEXT>Bạn phải xác định khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09957</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09965</KEY>
+    <TEXT>Bạn phải xác định tài khoản gửi!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien09966</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10117</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10118</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10123</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10124</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10135</KEY>
+    <TEXT>Đang cập nhật Email</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10136</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10151</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10152</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10156</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10157</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10578</KEY>
+    <TEXT>Standard V par - Build System Customer</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10612</KEY>
+    <TEXT>Standard V par - Build System Customer</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien10647</KEY>
+    <TEXT>Standard V par - Build System Customer</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien11544</KEY>
+    <TEXT>Tổng tiền đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien11551</KEY>
+    <TEXT>Tổng tiền hợp đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien11611</KEY>
+    <TEXT>Tổng tiền đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien11618</KEY>
+    <TEXT>Tổng tiền hợp đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien11930</KEY>
+    <TEXT>Tổng tiền đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien11982</KEY>
+    <TEXT>Tổng tiền đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien12134</KEY>
+    <TEXT>Tổng tiền hợp đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien12185</KEY>
+    <TEXT>Tổng tiền hợp đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien12293</KEY>
+    <TEXT>Bạn có thật sự muốn xoá không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien13275</KEY>
+    <TEXT>Bạn có muốn giữ thông tin này không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien13276</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien13281</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien13287</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien13930</KEY>
+    <TEXT>Loại tiền này sẻ dùng trong toàn bộ quá trình vận hàng của VPAR.\nBạn có chắc chắn chọn nó không!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien13931</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14103</KEY>
+    <TEXT>Không có kết nối internet</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14111</KEY>
+    <TEXT>Không có kết nối internet</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14162</KEY>
+    <TEXT>&amp;#273;&amp;#432;&amp;#7907;c th&amp;#7921;c hi&amp;#7879;n</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14163</KEY>
+    <TEXT>không g&amp;#7917;i &amp;#273;&amp;#432;&amp;#7907;c</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14164</KEY>
+    <TEXT>Không thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14168</KEY>
+    <TEXT>Có lỗi xảy ra. Tin ko được gửi</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14233</KEY>
+    <TEXT>Bạn phải chọn khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14234</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14239</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14361</KEY>
+    <TEXT>Cần chọn số điện thoại gửi</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14422</KEY>
+    <TEXT>Thông tin không chính xác</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14427</KEY>
+    <TEXT>Có lỗi xảy ra</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14435</KEY>
+    <TEXT>Không thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14444</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14445</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14449</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14450</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14460</KEY>
+    <TEXT>Đang cập nhật SMS</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien14461</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17210</KEY>
+    <TEXT>Bạn phải chọn loại tiền chi</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17237</KEY>
+    <TEXT>Bạn phải chọn khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17238</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17243</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17371</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17372</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17376</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17377</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17403</KEY>
+    <TEXT>Đang cập nhật chi tiền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17404</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17528</KEY>
+    <TEXT>Bạn phải chọn kho nhập</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17548</KEY>
+    <TEXT>Bạn chưa có danh sách sản phẩm!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17549</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17553</KEY>
+    <TEXT>Do not have a product list!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17554</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17568</KEY>
+    <TEXT>Bạn phải xác định khách hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17569</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17573</KEY>
+    <TEXT>You must identify customers!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17574</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17586</KEY>
+    <TEXT>Bạn phải xác định hợp đồng hoặc dự báo để xuất hàng!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17587</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17591</KEY>
+    <TEXT>You must identify or contract for shipment forecast!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien17592</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18128</KEY>
+    <TEXT>Cập nhật thành công!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18129</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18133</KEY>
+    <TEXT>Update successful!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18134</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18159</KEY>
+    <TEXT>Đang cập nhật nhập hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18160</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18352</KEY>
+    <TEXT>Bạn check vào đây tức là Send tiếng việt.\nVới kiểu tiếng Việt bạn được rất ít ký tự</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18393</KEY>
+    <TEXT>{0} phẩy {1} đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18397</KEY>
+    <TEXT> đồng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18425</KEY>
+    <TEXT>không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18432</KEY>
+    <TEXT>âm </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18440</KEY>
+    <TEXT>không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18441</KEY>
+    <TEXT>năm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18518</KEY>
+    <TEXT>trăm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18522</KEY>
+    <TEXT>trăm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18526</KEY>
+    <TEXT>mươi</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18813</KEY>
+    <TEXT>Bạn có chắc chắn muốn gộp không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18814</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18818</KEY>
+    <TEXT>Are you sure you want to combine not?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18819</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18826</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18830</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18854</KEY>
+    <TEXT>Bạn không được chọn khách hàng xác định giữ lại!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien18858</KEY>
+    <TEXT>You can not choose to retain customers identified!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19000</KEY>
+    <TEXT>Bạn có chắc chắn muốn xóa không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19001</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19007</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19011</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19043</KEY>
+    <TEXT>Bạn xóa thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19044</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19050</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19054</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19143</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19238</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19847</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien19885</KEY>
+    <TEXT>nghìn</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20402</KEY>
+    <TEXT>Tăng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20406</KEY>
+    <TEXT>Giảm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20414</KEY>
+    <TEXT>Tăng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20418</KEY>
+    <TEXT>Giảm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20578</KEY>
+    <TEXT>Tăng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20582</KEY>
+    <TEXT>Giảm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20639</KEY>
+    <TEXT>Hẹn lịch với: </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20657</KEY>
+    <TEXT>Hẹn lịch với: </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20675</KEY>
+    <TEXT>Hẹn lịch với: </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20703</KEY>
+    <TEXT>Hẹn lịch với: </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20813</KEY>
+    <TEXT>Bạn có chắc chắn muốn gộp không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20814</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20818</KEY>
+    <TEXT>Are you sure you want to combine not?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20819</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20826</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20830</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20855</KEY>
+    <TEXT>Bạn không được tích chọn sản phẩm xác định giữ lại!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien20859</KEY>
+    <TEXT>You can not choose to retain product identified!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21036</KEY>
+    <TEXT>VPAR_CRM</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21048</KEY>
+    <TEXT>Chọn người được xem.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21097</KEY>
+    <TEXT>Bạn chưa xác định người nhận</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21203</KEY>
+    <TEXT>Bạn chưa xác định người nhận</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21548</KEY>
+    <TEXT>Có lỗi xảy ra</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21586</KEY>
+    <TEXT>Chọn người được xem.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21601</KEY>
+    <TEXT>Chọn người được xem.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21616</KEY>
+    <TEXT>Chọn người được xem.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21636</KEY>
+    <TEXT>Chọn người được xem.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien21724</KEY>
+    <TEXT>Sẽ đặt hàng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmThuThapvaThucHien22036</KEY>
+    <TEXT>Chọn người được xem.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh00776</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh01257</KEY>
+    <TEXT>Kiểm tra lại số lượng</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh01351</KEY>
+    <TEXT>Chọn Tự động tính BOM để tạo BOM từ nhiều sản phẩm !</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh01352</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh01570</KEY>
+    <TEXT>Error</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh01666</KEY>
+    <TEXT>Error</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh01786</KEY>
+    <TEXT>Error</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02210</KEY>
+    <TEXT>Bạn có muốn giữ lại bảng sản phẩm tính giá thành ? </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02211</KEY>
+    <TEXT>Thông báo</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02213</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02241</KEY>
+    <TEXT>Bình quân gia quyền</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02347</KEY>
+    <TEXT>Bạn chưa điền đầy đủ thông tin, dữ liệu!</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02348</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02361</KEY>
+    <TEXT>Cập nhật dữ liệu thành công.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02362</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02606</KEY>
+    <TEXT>Success</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhgiathanh02624</KEY>
+    <TEXT>This dividing way, the calculator {0} is divided already. Plz cancle dividing for the calculator {0} and try again.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhGiaThanhMain00358</KEY>
+    <TEXT>Phân tích tính giá thành theo</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhGiaThanhMain00394</KEY>
+    <TEXT>Tìm kiếm tính giá thành</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien00075</KEY>
+    <TEXT>Hôm nay</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien00076</KEY>
+    <TEXT>Hôm qua</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien00077</KEY>
+    <TEXT>Tuần này</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien00078</KEY>
+    <TEXT>Tuần trước</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien00079</KEY>
+    <TEXT>Tháng này</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien00080</KEY>
+    <TEXT>Tháng trước</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01742</KEY>
+    <TEXT>Phân tích tình hình giao dịch\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01757</KEY>
+    <TEXT>Phân tích tình hình nhãn thư\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01772</KEY>
+    <TEXT>Phân tích tình hình gửi Email\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01787</KEY>
+    <TEXT>Phân tích tình hình gửi SMS\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01804</KEY>
+    <TEXT>Phân tích tình hình Báo giá\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01819</KEY>
+    <TEXT>Phân tích tình hình Báo giá\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01837</KEY>
+    <TEXT>Phân tích tình hình Dự báo\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01852</KEY>
+    <TEXT>Phân tích tình hình Dự báo\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01867</KEY>
+    <TEXT>Phân tích tình hình Dự báo\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01885</KEY>
+    <TEXT>Phân tích tình hình Hợp đồng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01900</KEY>
+    <TEXT>Phân tích tình hình Hợp đồng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01918</KEY>
+    <TEXT>Phân tích tình hình Xuất hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01933</KEY>
+    <TEXT>Phân tích tình hình Xuất hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01948</KEY>
+    <TEXT>Phân tích tình hình Xuất hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01964</KEY>
+    <TEXT>Phân tích tình hình Thu tiền\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01981</KEY>
+    <TEXT>Phân tích tình hình Nhập hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien01996</KEY>
+    <TEXT>Phân tích tình hình Nhập hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02011</KEY>
+    <TEXT>Phân tích tình hình Nhập hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02027</KEY>
+    <TEXT>Phân tích tình hình Chi tiền\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02042</KEY>
+    <TEXT>Phân tích tình hình Kho hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02058</KEY>
+    <TEXT>Phân tích Từ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02075</KEY>
+    <TEXT>Phân tích tình hình Thực hiện\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02090</KEY>
+    <TEXT>Phân tích thực hiện sản phẩm\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02105</KEY>
+    <TEXT>Phân tích tình hình Thực hiện\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02120</KEY>
+    <TEXT>Phân tích theo số lượng sản phẩm\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02135</KEY>
+    <TEXT>Phân tích theo doanh số khách hàng\nTừ ngày:{0}  -{1} </TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02150</KEY>
+    <TEXT>Phân tích theo doanh số khách hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02545</KEY>
+    <TEXT>Phân tích tình hình giao dịch\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02559</KEY>
+    <TEXT>Phân tích tình hình nhãn thư\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02573</KEY>
+    <TEXT>Phân tích tình hình gửi Email\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02587</KEY>
+    <TEXT>Phân tích tình hình gửi SMS\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02603</KEY>
+    <TEXT>Phân tích tình hình Báo giá\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02617</KEY>
+    <TEXT>Phân tích tình hình Báo giá\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02634</KEY>
+    <TEXT>Phân tích tình hình Dự báo\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02648</KEY>
+    <TEXT>Phân tích tình hình Dự báo\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02662</KEY>
+    <TEXT>Phân tích tình hình Dự báo\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02679</KEY>
+    <TEXT>Phân tích tình hình Hợp đồng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02693</KEY>
+    <TEXT>Phân tích tình hình Hợp đồng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02710</KEY>
+    <TEXT>Phân tích tình hình Xuất hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02724</KEY>
+    <TEXT>Phân tích tình hình Xuất hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02738</KEY>
+    <TEXT>Phân tích tình hình Xuất hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02753</KEY>
+    <TEXT>Phân tích tình hình Thu tiền\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02769</KEY>
+    <TEXT>Phân tích tình hình Nhập hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02783</KEY>
+    <TEXT>Phân tích tình hình Nhập hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02797</KEY>
+    <TEXT>Phân tích tình hình Nhập hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02812</KEY>
+    <TEXT>Phân tích tình hình Chi tiền\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02826</KEY>
+    <TEXT>Phân tích tình hình Kho hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02842</KEY>
+    <TEXT>Phân tích tình hình Thực hiện\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02856</KEY>
+    <TEXT>Phân tích tình hình Thực hiện\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02870</KEY>
+    <TEXT>Phân tích theo số lượng sản phẩm\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02884</KEY>
+    <TEXT>Phân tích theo doanh số khách hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien02898</KEY>
+    <TEXT>Phân tích theo doanh số khách hàng\nTừ ngày:{0} - {1}</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien03047</KEY>
+    <TEXT>KhoHang</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien03256</KEY>
+    <TEXT>Tồn tại chi phí đã từng được phân bổ, bạn muốn lấy nguyên chi phí ban đầu ?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien03257</KEY>
+    <TEXT>(Chi phí chưa phân bổ được chuyển thẳng về bảng phân bổ tính giá thành)</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien03261</KEY>
+    <TEXT>Tồn tại sản phẩm đã từng được phân bổ, bạn muốn lấy giá trị ban đầu ?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien03262</KEY>
+    <TEXT>(Sản phẩm chưa phân bổ được chuyển thẳng về bảng sản phẩm tính giá thành)</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien04073</KEY>
+    <TEXT>Tồn tại chi phí đã từng được phân bổ, bạn muốn lấy nguyên chi phí ban đầu ?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien04074</KEY>
+    <TEXT>(Chi phí chưa phân bổ được chuyển thẳng về bảng phân bổ tính giá thành)</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien04078</KEY>
+    <TEXT>Tồn tại sản phẩm đã từng được phân bổ, bạn muốn lấy giá trị ban đầu ?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmTinhHinhThucHien04079</KEY>
+    <TEXT>(Sản phẩm chưa phân bổ được chuyển thẳng về bảng sản phẩm tính giá thành)</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmVparCaculator00054</KEY>
+    <TEXT>Bạn có muốn giữ lại thông tin không?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmVparCaculator00055</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmVparCaculator00059</KEY>
+    <TEXT>You do not want to keep information?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmVparCaculator00060</KEY>
+    <TEXT>Message V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmVparCaculator00066</KEY>
+    <TEXT>Không</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmVparCaculator00072</KEY>
+    <TEXT>Yes</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmVparCaculator00357</KEY>
+    <TEXT>Kiểm tra lại các thông tin định khoản nợ/có, đơn giá thêm, thành tiền thêm</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmVparCaculator00366</KEY>
+    <TEXT>Phải chọn sản phẩm phân bổ</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmVparCaculator00613</KEY>
+    <TEXT>Cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>frmXacdinhduyet00334</KEY>
+    <TEXT>Cập nhật thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Program00057</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Program00075</KEY>
+    <TEXT>V par chưa được đăng ký. Bạn hãy vào \n“ khai bao dang ky “ để thực hiện</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Program00076</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Program00104</KEY>
+    <TEXT>V par chưa được đăng ký. Bạn hãy vào \n“ khai bao dang ky “ để thực hiện</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Program00105</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Utils00213</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.\n</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Utils00224</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Utils00234</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Utils00243</KEY>
+    <TEXT>Thông báo V par DB</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vBaogia00084</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vBaogia00085</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vBaogia00116</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vBaogia00117</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vDubao00084</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vDubao00085</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vDubao00116</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vDubao00117</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vGiaodich00080</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vGiaodich00081</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vGiaodich00112</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vGiaodich00113</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vHopdong00084</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vHopdong00085</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vHopdong00116</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vHopdong00117</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vNhaphang00077</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vNhaphang00078</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vNhaphang00109</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vNhaphang00110</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>VparHtmlEditor00434</KEY>
+    <TEXT>Trạng thái: không chỉnh sửa</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>VparHtmlEditor00438</KEY>
+    <TEXT>Trạng thái: chỉnh sửa</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>VparHtmlEditor00845</KEY>
+    <TEXT>Trạng thái: không chỉnh sửa</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>VparHtmlEditor00849</KEY>
+    <TEXT>Trạng thái: chỉnh sửa</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>VparHtmlEditor00981</KEY>
+    <TEXT>Trạng thái: chỉnh sửa</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>VparHtmlEditor00986</KEY>
+    <TEXT>Trạng thái: không chỉnh sửa</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vXuathang00086</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vXuathang00087</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vXuathang00118</KEY>
+    <TEXT>Lỗi AttactFile</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>vXuathang00119</KEY>
+    <TEXT>Có lổi ở đâu đó\nBạn hảy gửi thông báo đến nhà cung cấp.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>MsgInfo</KEY>
+    <TEXT>Thông báo của VPAR</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Plz_SelectOne</KEY>
+    <TEXT>Chọn một bản ghi</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>PlzConfirm</KEY>
+    <TEXT>Bạn có chắc chắn thực hiện thao tác này?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>PlzConfirm_Allocate</KEY>
+    <TEXT>Bạn có chắc chắn thực hiện thao tác phân bổ {0} này?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>PlzConfirm_Cancel</KEY>
+    <TEXT>Bạn có chắc chắn thao tác hủy {0} này?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>PlzConfirm_Delete</KEY>
+    <TEXT>Bạn có chắc chắn thao tác xóa {0} này?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>PlzConfirm_Update</KEY>
+    <TEXT>Bạn có chắc chắn thực hiện thao tác cập nhật {0} này?</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>Success</KEY>
+    <TEXT>Thành công</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>TGT_MsgDaPhanBo</KEY>
+    <TEXT>Trong nhánh này có bảng tính mã {0} đã được phân bổ. Hủy phân bổ bảng tính {0} rồi thực hiện lại.</TEXT>
+  </LANG>
+  <LANG>
+    <KEY>TGT_NotFind</KEY>
+    <TEXT>Không xác định được bảng tính để hủy.</TEXT>
+  </LANG>
+</NewDataSet>

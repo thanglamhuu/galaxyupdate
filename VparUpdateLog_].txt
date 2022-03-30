@@ -1,0 +1,91 @@
+﻿20150515 ThangLH xử lý để không bị tràn người chia sẻ khi thực hiện duyệt nhiều lần
+20150316 NQUANG:
+				- Thêm phân numbera-h
+20150206 NQUANG:
+				- Sửa lại kế thừa từ danh mục trong cấu hình hẹn lịch
+20150206 QUANGNT 
+               - Sửa lỗi sinh vât tư phụ nhiều lần
+20150204 NQUANG:
+				- Code hẹn lịch duyệt
+20150119 NQUANG:
+				- Thêm phần thể hiện danh mục được chọn trong Form Duyêt để phục vụ cho tiện ích lưu DS hẹn lịch trong Duyệt
+20150116 NQUANG:
+				- Làm thêm tính năng bổ sung cấu hình hẹn lịch cho Duyệt
+				- Sửa lỗi Click button Thêm nhanh sản phẩm
+20150116 QUANGNT :
+- Thay 2 vật tự phụ 'Keo kính  A600 – Gray mã KEOA600' và 'Keo tường A500W 'bằng
+2 loại keo mới có mã '113.SP14375' và '113.SP14370'
+20150109 Thắng LH: 
+- Disable nút phân quyền all danh mục.
+- Sắp xếp định khoản kế toán.
+
+20150109 TQUANG : UPDATE chức năng đổi tên một cột thanh tên cột mới trong màn hình tính giá thành 
+20150109 NQUANG :
+				- Dua phan click button trong HLCVHN ve active History
+20150108 NQUANG :
+				- Sua lai khi click nut tai bieu do moi load Bieu do tac chien
+				- Sua loi luu cau hinh trong Phan tich bi loi~
+20150107 NQUANG :
+				- Làm thêm phần khi chọn danh mục khác sẽ refersh danh sach DTTC
+				- Sửa lỗi khi click 1 HD cũng báo quá nhiều hợp đồng
+				- Làm thêm phần reset id dttc cho DB,HD
+				
+20150106 Thắng LH: 
+- Fix để chuyển được trạng thái Đơn hàng từ Nhập thành xuất và ngược lại.
+- Fix lỗi lưới sản phẩm bị trắng ( Tự động bỏ lọc lưới sản phẩm mỗi khi xem từ lịch sử).
+					
+20150106 NQUANG :
+				- Sua loi click hen lich chua lam bao loi khong tim thay dong
+				- Sua proc tren CSDL de chi cho nguoi dung duoc nhin hen lich cua nguoi do
+				- Sua loi khi cap nhat DH roi chuyen sang KH khac ma nut cap nhat van cho fep Click
+				- Sua loi Dinh dang luoi san pham thuc hien bi sai
+20150105 NQUANG :
+				- Sua loi hen lich: Lay filter theo layout
+				- Sua luu cau hinh hen lich
+20141231 TQUANG :
+                - Phân tích cứng đơn hàng/hợp đồng => chi tiết sản phẩm => hiển thị đúng lưới mẹ ,con ,click vào
+                chi tiết ok và ko báo lỗi 
+20141231 NQUANG : 
+				- Sua click double moi lay dc tong tien don hang
+				- Them moi BG ko giu lai FIle dinh kem
+				- Lay san pgham tu KEHOACH ve DB cap naht duoc
+20141230 NQUANG : Lam cau hinh Form, luu dshl va xuat nhap theo danh muc
+20141230 ThangLH fix cho trỏ lại số hợp đồng trong Nhập hàng
+20141230 ThangLH Bo sung tinh năng Cho phep cập nhật lại nhóm sản phẩm trên màn hình thêm nhanh sản phẩm
+20141230 ThangLH Bo sung tu dong active History sau khi luu Nhap hang, xuat hang
+20141226 ThangLH cho phep chon lai hop dong trong xuat nhap thu chi
+20141225 : NQUANG fix :
+	- Sửa lỗi khi click vào Lấy sản pahamr hiện thông báo nhưng không về thực hiện
+	- Tìm ra lỗi b ị mất phân quyền hợp đồng tuy nhiên chưa sauwr do cần Mr.Thắng cho0nj cách xử lý
+20141212 QuangNT bổ sung fix lỗi "no rows ...."sau khi đã xóa xuất nhâp thu chi và tiếp túc click vào các but toán đó từ lưới lịch sử .
+20141212 QuangNT bổ sung việc hỏi xác nhận khi xóa bút toán và báo thành công sau khi xóa
+20141212 QuangNT bổ sung cơ chế cho người dùng đăng nhập bằng tài khoản vpar được phép phân quyền nhìn biểu mẫu in 
+20141210 Thang LH Bo sung co che phan quyền hiện Menu theo user người dùng (Tích chọn Menu được xem trong khi phân quyền người dùng,
+Muốn đưa menu nào vào phân quyền thì thêm tên đó vào bảng PQ_TAB, các menu còn lại sẽ được hiện cho tất cả).
+
+20141209 NQUANG 16h50 :
+	- Sua lai trinh tu click button run
+	- Sua lai form Marketing
+	- Sua file Util lay filter
+	- Sua button va btnDone trong HL, ALL
+20141209 TQUANG 15h   :
+    - Trọng dự toán vật tư : set mặc định doorsill có độ dày = 1.2 cho tất cả các loại cửa ,set thép tự sinh
+    có đơn vị tính mặc định = tấm, và có dữ liệu nhóm  
+    - Update : chỉ cho tài khoản vpar được phép chỉnh sửa sản phẩm
+20141209 TQUANG 9h => Bổ sung chức năng hủy bút toán (xóa các thực hiện: xuất ,nhập ,thu,chi )
+     HDSD :
+    - Mở xuất ,nhập ,thu ,chi cần xóa 
+    - Click hệ thống => click "Hủy bút toán"  
+20141209 : NQUANG :
+	- Sua lai hen lich cho phep dinh dang luoi dtgAll trong hen lich
+	- Sua lai click "..." bi update THUCHIEN = 1
+	- Bo lay Version do bao loi~
+20141204 : NQUANG : 
+	- Update tính năng phân quyền không bị mất phân quyền
+	- Sửa định dạng hẹn lịch
+
+20141202 Thắng LH bổ sung cơ chế tài khoản kế toán theo chi nhánh
+- Thêm cột ID_CHINHANH vào bảng DM_DINHKHOAN
+- trong màn hình phân loại danh mục, nếu là dropdown để lựa chọn Tài khoản kế toán thì sẽ hiển thị theo định dạng Tài Khoản - Tên chi nhánh (HN/VP) - Ghi chú tài khoản.
+20141202 THắng LH bổ sung menu thay đổi Nhập/ Xuất của đơn hàng, hợp đồng (Hệ thống -> Điều chỉnh Xuất nhập -> Nhập/xuất
+20141202 Bổ sung lấy hợp đồng gốc khi chuyển từ Đơn hàng, hợp đồng sang xuất/nhập/thu/chi
